@@ -10,6 +10,7 @@ kghalgfbgn,allJj;FJ;
 
 
 ## Database Design
+![Copy of Stock Exchange Market (14)](https://github.com/user-attachments/assets/059ca43c-7f08-4794-8218-2721e53e694b)
 
 
 
